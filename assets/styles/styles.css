@@ -190,6 +190,10 @@ html {
   background: #c7c7c7;
 }
 
+.navigation__img-container--yellow {
+  background: #FCE192;
+}
+
 .navigation__btn:link,
 .navigation__btn:visited {
   color: black;
